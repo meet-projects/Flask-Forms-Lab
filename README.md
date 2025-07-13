@@ -65,7 +65,7 @@ facebook_friends=["Loai","Yonathan","Adan", "George", "Fouad", "Celina"]
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+If not, make sure you submit your code here
 
 
 
@@ -83,6 +83,6 @@ If not, make sure your code is saved in **Repl.it**!
 4. If you have extra time, complete yesterday's (or any other) lab(s) if you haven't yet!
 
 ##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
+### Make sure you submit your code here
 
 
