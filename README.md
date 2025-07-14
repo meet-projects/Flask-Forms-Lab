@@ -8,10 +8,7 @@ In this lab, you will learn about taking and processing information, given by a 
 
 
 
-
-
-
-> Before we start, make sure to fork the repo and clone the code.
+> Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1IlDCraql199T2mk_Nd2eVI9XLCZjZGUD/view) and export it to sublime
 
 
 ## Instructions:
