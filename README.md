@@ -62,7 +62,7 @@ facebook_friends=["Loai","Yonathan","Adan", "George", "Fouad", "Celina"]
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure you submit your code here
+If not, make sure you submit your code [here](https://forms.gle/VQeaq9m1iBmjSXkj8)
 
 
 
@@ -80,6 +80,6 @@ If not, make sure you submit your code here
 4. If you have extra time, complete yesterday's (or any other) lab(s) if you haven't yet!
 
 ##### Great job on completing the bonus problems section!  
-### Make sure you submit your code here
+### Make sure you submit your code [here](https://forms.gle/VQeaq9m1iBmjSXkj8)
 
 
